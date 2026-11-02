@@ -1,0 +1,7 @@
+git config --global user.name "Ramla Hamadou Garba"
+git config --global user.email "hamadougarbaramla99@gmail.com"
+git init
+git add .
+git commit ‐m "Creer le squelette du projet UIN‐Campus"
+git remote add origin https://github.com/<utilisateur>/uin‐campus.git
+git push ‐u origin main
